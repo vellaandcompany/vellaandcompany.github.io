@@ -1604,11 +1604,11 @@
 				.slideshow-wrapper ul {
 					margin:0;
 					padding:0;
-					width: 2568px; /* 316 * 8 */
+					width: 800%; /* 316 * 8 */
 					-webkit-animation: slideshow 10s infinite;
 					-moz-animation: slideshow 10s infinite;
 					-o-animation: slideshow 10s infinite;
-					animation: slideshow 20s infinite;
+					animation: slideshow 120s infinite;
 				}
 				.slides .slide-image {
 					width:316px;
